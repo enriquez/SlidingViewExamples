@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SlidingView",
+        "repositoryURL": "git@github.com:enriquez/SlidingView.git",
+        "state": {
+          "branch": "main",
+          "revision": "cb694f07d754f30fdc3b8214bda7aef74f3447ea",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
